@@ -1,9 +1,9 @@
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange)
 ![Platform](https://img.shields.io/badge/iOS-16-blue)
 
-# Mood Tracker
+# Mood Tracker 🧠✨
 
-A simple iOS app built with SwiftUI to track daily moods.
+Track your daily moods with a simple, offline-friendly iOS app built in SwiftUI.
 
 ## About
 This app allows users to select and save their mood for the day, view their mood history, and track it over time. Data is stored locally using UserDefaults, making it fast and offline-friendly.
